@@ -1,0 +1,21 @@
+{
+    "keyboard_name": "3by2",
+    "keyboard": "3by2",
+    "url": "https://github.com/wlard/3by2",
+    "maintainer": "wlard",
+    "width": 5,
+    "height": 2,
+    "keymap": "default",
+    "layouts": {
+        "LAYOUT_horizontal": {
+            "key_count": 6,
+            "layout": [
+                { "x": 0, "y": 0 }, { "x": 1, "y": 0 }, { "x": 2, "y": 0 },{ "x": 3, "y": 0 }
+                { "x": 0, "y": 1 }, { "x": 1, "y": 1 }, { "x": 2, "y": 1 },{ "x": 3, "y": 1 },{ "x": 4, "y": 1 }
+            ]
+        }
+    },
+    "layers": [
+        ["KC_1","KC_2","KC_3","KC_4","KC_5","KC_6","KC_7","KC_8","KC_9"]
+    ]
+}
